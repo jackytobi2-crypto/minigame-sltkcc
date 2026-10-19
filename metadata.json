@@ -1,0 +1,6 @@
+{
+  "name": "NeuroPsych Quiz - Sinh Lý Thần Kinh & Tâm Lý Học",
+  "description": "Bảng câu hỏi trắc nghiệm Sinh lý thần kinh cấp cao & Tâm lý học với hiệu ứng biến mất câu sai, âm thanh đáp án đúng và đồ họa thần kinh chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
